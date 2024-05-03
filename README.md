@@ -4,10 +4,10 @@
 Android Mobile Application Made by Me...
 
 ![Logo](https://play-lh.googleusercontent.com/2S5PLtiuP0wD2R6_LLazWlNLe0hKtOANwp8Up0cYpQzrBK5II7w6B05ecDtFatCFGhxW=w240-h480-rw) 
-[![DJ Mixer - Mix Music DJ Studio](https://img.shields.io/badge/iScreenshot%20Editor%20for%20HD%20Shot-Open%20Editor-green?style=flat-square)](https://play.google.com/store/apps/details?id=com.djmixersoundpro.djmusicmixerstudio)
+<a href="https://play.google.com/store/apps/details?id=com.djmixersoundpro.djmusicmixerstudio">DJ Mixer - Mix Music DJ Studio</a>
 
 ![Logo](https://play-lh.googleusercontent.com/ncF1gD6eMcX5V6NeCoCp9GfgbU_8PUWlPOCxTX9X5EIRod98mKMS2VM7TQ8NQpCC-t8=w240-h480-rw) 
-[![Audio Video Mixer & Editor](https://img.shields.io/badge/iScreenshot%20Editor%20for%20HD%20Shot-Open%20Editor-green?style=flat-square)](https://play.google.com/store/apps/details?id=com.audiovideomixer.videocuttermusicplayer)
+<a href="https://play.google.com/store/apps/details?id=com.audiovideomixer.videocuttermusicplayer">Audio Video Mixer & Editor </a>
 
 ![Logo](https://play-lh.googleusercontent.com/-AdTMYhYCd6sBEamskme4UufEA5TVgAeRvhTZfSBsJuz3CWdPQAzw76O2eJl49NBh-s=w240-h480-rw) 
 [![Rap Audio Recorder](https://img.shields.io/badge/iScreenshot%20Editor%20for%20HD%20Shot-Open%20Editor-green?style=flat-square)](https://play.google.com/store/apps/details?id=com.singrapsong.rapmakerpro)
